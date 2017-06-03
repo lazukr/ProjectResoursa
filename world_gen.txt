@@ -1,2 +1,3 @@
-Oak 0.2
-Birch 0.4
+Oak 0.9
+Birch 0.2
+Bloodred 0.7

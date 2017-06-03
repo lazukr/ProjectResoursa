@@ -1,23 +1,23 @@
 # materials.py contains all the outline
 # to the fundamentals of all materials
-
-import random
-import pygame_sdl2
-pygame_sdl2.import_as_pygame()
 import pygame
 
 MATERIALS_WOOD = {
 	"Oak": {
-		"size": ((4, 16)),
+		"size": ((5, 23)),
 		"width_deviation": 0,
 		"height_deviation": 1,
 		"colour": (79, 36, 18)
 	},
 	"Birch": {
-		"size": ((6, 27)),
+		"size": ((3, 12)),
 		"width_deviation": 1,
 		"height_deviation": 2,
-		"colour": (51, 45, 30)
+		"colour": (255, 153, 0)
+	},
+	"Bloodred": {
+		"size": ((15, 3)),
+		"colour": (255, 25, 25)
 	}
 }
 

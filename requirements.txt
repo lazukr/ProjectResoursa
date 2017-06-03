@@ -1,1 +1,1 @@
-git+https://github.com/renpy/pygame_sdl2
+pygame

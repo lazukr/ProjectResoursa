@@ -1,5 +1,3 @@
-import pygame_sdl2
-pygame_sdl2.import_as_pygame()
 import pygame
 from materials import Wood
 from random import randint
@@ -48,7 +46,7 @@ class Resoursa():
 				self.items["count"] += 1
 
 
-		print(self.items["count"])
+		print(self.items)
 
 
 
