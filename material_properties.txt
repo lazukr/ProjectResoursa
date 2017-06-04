@@ -1,5 +1,18 @@
 # file that includes all the properties of materials
 # 
+# HOW TO USE:
+# -------------
+# Begin the line with '$' if you wish for that line to be detected as a property key.
+#
+# The left side of a property key should ideally be a character, if you surpass the 
+# 26 letters of the alphabet, you can just make it 2 characters. No spaces permitted.
+# The left side acts as a mapping for the table that can be found below.
+# The right side of the property key should ideally be a useful descriptor to that property
+# as it will be read and used by the classes in material.py.
+# Similar properties should ideally be placed on the same line.
+# 
+# The data placed in the table are not permitted to have spaces. It should also either consist
+# of a valid value (integer or decimal) or a valid tuple.
 #
 # Legend
 # -------------
