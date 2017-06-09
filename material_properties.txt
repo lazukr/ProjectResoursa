@@ -16,16 +16,28 @@
 #
 # Legend
 # -------------
+# 
+# The following are universal properties of materials:
+#
 $ A = name
-$ B = size, C = width_deviation, D = height_deviation
-$ E = colour, F = colour_secondary
+$ B = size, C = size_deviation
+$ D = colour
+$ E = melting_point, F = melting_affinity
+#
+#
+# The following are specific properties:
 #
 #
 #
 #
 #
 # TABLE BEGIN
-# A     		B   		C   D   E				F
-Oak 			(5,23)		0 	1	(79,36,18)		(78,22,15)
-Birch			(3,12)	 	1   2   (255,153,0)		(12,255,29)
-Bloodred		(15,3)	 	2	2	(255,25,25)		(188,102,192)
+# A     		B   		C 		D				E 		F	
+# Oak 			(5,23)		(0,1)	(79,36,18)		12		
+# Birch			(3,12)	 	(1,2)	(255,153,0)		30		
+# Bloodred		(15,3)	 	(2,2)	(255,25,25)		80
+#
+Dog				(20,20)		(7,5)	(244,164,96)	1172	2.7
+Sista			(40,20)		(15,4)	(255,0,0) 		3324	1.4
+Motoa			(40,60)		(6,22)	(0,0,255)		2917	9.7
+Ranger			(50,25)		(19,7)	(0,255,0)		776		4.2

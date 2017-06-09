@@ -1,3 +1,4 @@
-Oak 0.9
-Birch 0.2
-Bloodred 0.7
+Dog 0.22
+Sista 0.2
+Motoa 0.1
+Ranger 0.15
