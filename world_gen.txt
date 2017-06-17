@@ -1,4 +1,4 @@
-Dog 0.22
-Sista 0.2
+Dog 0.1
+Sista 0.1
 Motoa 0.1
-Ranger 0.15
+Ranger 0.1
